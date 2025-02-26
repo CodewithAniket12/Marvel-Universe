@@ -1,6 +1,4 @@
-# Marvel Universe
-
-## Navigation
+ ## Navigation
 
 - [Home](index.html)
 - [Iron Man](ironman.html)
@@ -11,7 +9,7 @@
 
 ---
 
-## Marvel Universe
+# Marvel Universe
 ![Marvel Universe](marvelUniverse.jpg)
 
 ---
