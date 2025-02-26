@@ -11,7 +11,7 @@
 
 ---
 
-## Marvel Universe Image
+## Marvel Universe
 ![Marvel Universe](marvelUniverse.jpg)
 
 ---
