@@ -2,12 +2,12 @@
 
 ## Navigation
 
-[Home](index.html) 
-[Iron Man](ironman.html)  
-[Captain America](captainamerica.html)  
-[Hulk](hulk.html)  
-[Wolverine](wolverine.html)  
-[Spider-Man](spiderman.html)  
+- [Home](index.html)
+- [Iron Man](ironman.html)
+- [Captain America](captainamerica.html)
+- [Hulk](hulk.html)
+- [Wolverine](wolverine.html)
+- [Spider-Man](spiderman.html)
 
 ---
 
